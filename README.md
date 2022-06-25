@@ -1,7 +1,5 @@
 # aeromodelismo
 
-# Este projeto vem com a ideia de criar um app para ter informações sobre aeromodelismo, com o intuido de ensinar e aprender sobre alguma tecnlogias Android.
-
 This project comes with the idea of creating an app for information about "aeromodelismo", in order to teach and learn about Android technology.
 - Generate APK
 - Kotlin
